@@ -1,4 +1,4 @@
-# Islandora Advanced Search <!-- omit in toc -->
+# Islandora Advanced Search (Customized version for DSU Islandora Lite Stack) <!-- omit in toc -->
 
 - [Introduction](#introduction)
 - [Requirements](#requirements)
